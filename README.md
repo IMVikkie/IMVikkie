@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IMVikkie
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning data Analyst
+- 🌱 I’m currently learning Data Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  vikas.ecafe@gmail.com
 
